@@ -1,0 +1,8 @@
+numpy
+scipy
+scikit-learn
+panns-inference
+torch
+librosa
+pymilvus[milvus-lite]
+matplotlib
